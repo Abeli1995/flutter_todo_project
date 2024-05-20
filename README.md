@@ -1,3 +1,3 @@
 # flutter_todo_project
 todo app with BloC 
-<img src="/flutter_todo_project/assets/67687533/9c3581de-9244-4eff-a7da-bbb5027b738e" alt="todo_app" width="300" height="200">
+![todo_app](https://github.com/Abeli1995/flutter_todo_project/assets/67687533/8fc21c12-f16e-4584-bb26-8af672217344)
