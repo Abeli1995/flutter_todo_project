@@ -45,5 +45,6 @@ class TodosOverviewFilterButton extends StatelessWidget {
       },
       icon: const Icon(Icons.filter_list_rounded),
     );
+
   }
 }
