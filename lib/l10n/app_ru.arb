@@ -1,0 +1,17 @@
+{
+  "helloWorld": "Привет, мир!",
+  "todosOverviewAppBarTitle": "Список дел",
+  "editTodoAddAppBarTitle": "Добавить дело",
+  "todosOverviewEmptyText": "С выбранным фильтром дел не найдено",
+  "todosOverviewFilterAll": "Все задачи",
+  "todosOverviewFilterActiveOnly": "Активные задачи",
+  "todosOverviewFilterCompletedOnly": "Завершённые задачи",
+  "todosOverviewOptionsMarkAllComplete": "Выделить все как завершённые",
+  "todosOverviewOptionsMarkAllIncomplete": "Выделить все как незавершённые",
+  "todosOverviewOptionsClearCompleted": "Очистить все задачи",
+  "statsAppBarTitle": "Статусы задач",
+  "statsCompletedTodoCountLabel": "Завершённые задачи",
+  "statsActiveTodoCountLabel": "Текущие задачи",
+  "editTodoTitleLabel": "Заголовок",
+  "editTodoDescriptionLabel": "Описание"
+}
