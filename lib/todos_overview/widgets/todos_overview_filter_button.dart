@@ -42,9 +42,9 @@ class TodosOverviewFilterButton extends StatelessWidget {
             child: Text(l10n?.todosOverviewFilterCompletedOnly ?? ''),
           ),
         ];
+
       },
       icon: const Icon(Icons.filter_list_rounded),
     );
-
   }
 }
